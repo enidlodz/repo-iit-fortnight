@@ -12,4 +12,4 @@ IT
 
 ## This edit was made with GitHub Codespaces !!!
 
-![Codespaces main page for Enidlodz][image.png]
+![Codespaces main page for Enidlodz](image.png)
